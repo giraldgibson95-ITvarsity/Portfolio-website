@@ -1,0 +1,36 @@
+
+#leftbar
+{
+    float: left;
+    padding-right: 30px;
+    width: 30%;
+}
+#leftbar img
+{
+    width: 30%;
+}
+
+#pic
+{
+    float: left;
+    padding-right: 30px;
+    width: 25%;
+   
+}
+
+#pic img
+{
+    width: 90%;
+    border-radius: 50%;
+}
+
+#rightbar
+{
+    float:right;
+    padding-left:30px;
+    width:30%;
+   
+}
+body {
+    background-color: aqua;
+}

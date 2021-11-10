@@ -1,0 +1,101 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+    color: white;
+    padding: 1.5rem 8rem;
+    position: sticky;
+    top: :0;
+    z-index: 1;
+   
+}
+
+.sidebar ul li{
+    list-style-type: none;
+     display: inline-block;
+    padding: 10px 30px;
+}
+
+.navbar h3 a{
+    color: white;
+    text-decoration: none;
+     
+}     
+}
+
+.sidebar li a:hover{
+    background-color:wheat;
+}
+
+
+.contact img{
+    border-radius: 50px;
+    object-fit: cover;
+    margin-bottom: 1rem;
+    border-radius: 50%;
+    border: 7rem;
+    float: right;
+    margin: right;
+    width: 100px;
+    height: 100px
+}
+
+p{
+    font-size: 20px;
+    color:black;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+ img{
+    border-radius: 50px;
+    object-fit: cover;
+    margin-bottom: 1rem;
+    border-radius: 50%;
+    border: 7rem;
+    float:  right;
+    margin: right;
+    width: 200px;
+    height: 200px
+}
+
+skills{
+     display: flex;
+     align-items: center;
+    justify-content:space-between;
+    color:aqua;
+    padding-top: 45px;
+    padding-right: 8%;
+    padding-left: 8%;
+   
+    
+    
+}
+.content h2{
+    background-image: url(Images/tumblr_psuuuh8qYh1u8mcj6o5_540.gif);
+    width: 450px;
+    height: 200px;
+}
+    
+.leftbar
+{
+    float: left;
+    padding-right: 30px;
+    width: 30%;
+    color: gold;
+}
+.leftbar img
+{
+    width: 30%;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
